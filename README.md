@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">CLIENTORA</h1>
 <h3 align="center">A CRM built the way a sales team would actually want to use one</h3>
 
